@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4Afghanistan.fr@SD" tvg-logo="" group-title="",4 Afghanistan
-https://4afghls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="4Afghanistan.fr@SD" tvg-logo="" group-title="",4 Afghanistan
-https://4afghls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="Music",4 Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="4Music.fr@SD" tvg-logo="" group-title="Music",4 Music
-https://itthls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter (1080p)
 http://149.62.177.107:9999/6ter/index.m3u8
 #EXTINF:-1 tvg-id="13emeRue.fr@SD" tvg-logo="https://i.imgur.com/k0DCMTL.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",13eme Rue
